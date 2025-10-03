@@ -15,10 +15,10 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,kotlin,bash,powershell,r)](https://skillicons.dev)
 
 ### Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,js,ts,html,css)](https://skillicons.dev)
 
 ### Backend Technologies
-[![My Skills](https://skillicons.dev/icons?i=docker,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,spring,nodejs)](https://skillicons.dev)
 
 ### Database & Tools
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
